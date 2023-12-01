@@ -3,5 +3,6 @@ shell backdoor bypass 403 all server yang dapat melewati beberapa keamanan siste
 # Daftar Shell 
 # ALFA
 # FIREWALL 
-# dimax
+# dimax  
+https://kosred.com/a/lmnqy.jpg
 # sayang137
