@@ -4,5 +4,5 @@ shell backdoor bypass 403 all server yang dapat melewati beberapa keamanan siste
 # ALFA
 # FIREWALL 
 # dimax  
-https://kosred.com/a/lmnqy.jpg
+<a href="https://ibb.co/4WwfGcp"><img src="https://i.ibb.co/p26P8gd/IMG-20231201-124620.jpg" alt="IMG-20231201-124620" border="0" /></a>
 # sayang137
