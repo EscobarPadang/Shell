@@ -3,8 +3,6 @@ shell backdoor bypass 403 all server yang dapat melewati beberapa keamanan siste
 # Daftar Shell 
 # ALFA 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/NpXxpgW/images.jpg" alt="images" border="0" /></a>
-# FIREWALL 
-<a href="https://ibb.co/j3bJGJp"><img src="https://i.ibb.co/ZcG2K2Z/Konachan-com-196911-sample.jpg" alt="Konachan-com-196911-sample" border="0" /></a>
 # dimax  
 <a href="https://ibb.co/4WwfGcp"><img src="https://i.ibb.co/p26P8gd/IMG-20231201-124620.jpg" alt="IMG-20231201-124620" border="0" /></a>
 # sayang137<= Password Padangsystemerror
